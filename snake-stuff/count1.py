@@ -42,14 +42,7 @@ student_names = ["Alice", "Bob", "Charlie"]
 student_scores = [85, 42, 90]
 
 def generate_report(names,scores):
-  status = ""
-  for item , (name , status_amount) in enumerate(zip(student_names,student_scores)):
-    if status_amount >= 50:
-      status = "PASS"
-    else:
-      status = "FAIL"
-      
-    print(f'Rank {item + 1} : {name} - {status}' )
-
+  for item , (name , status_amount) in enumerate(zip(names,scores)):
+    print(f'Rank {item + 1} : {name} - {"PASS" if status_amount >= 50 else "FAIL"}' )
 
 generate_report(student_names,student_scores)
