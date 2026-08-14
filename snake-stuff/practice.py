@@ -1,6 +1,6 @@
 """length = float(input("Enter your length : "))
 width = float (input("Enter your width : ")) 
-print(f'Area :   {length * width}')"""
+print(f'Area :   {length * width}')
 
 result = 0 
 first_num = int(input("Enter your first number : "))
@@ -21,3 +21,8 @@ elif ( symbol == '/'):
   result = first_num // second_num
   
 print(f'The result of {first_num} {symbol} {second_num} is {result}')
+"""
+
+fruits = ["apple", "oranges"]
+print(help(fruits)) ## in operator can be used to return a boolean operator
+#set cant be index as it is unordered
