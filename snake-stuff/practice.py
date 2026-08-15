@@ -23,6 +23,6 @@ elif ( symbol == '/'):
 print(f'The result of {first_num} {symbol} {second_num} is {result}')
 """
 
-fruits = ["apple", "oranges"]
+fruits = ("apple", "oranges")
 print(help(fruits)) ## in operator can be used to return a boolean operator
 #set cant be index as it is unordered
