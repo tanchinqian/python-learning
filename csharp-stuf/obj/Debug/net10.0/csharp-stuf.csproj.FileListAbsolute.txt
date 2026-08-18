@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\python-learning\csharp-stuf\bin\Debug\net10.0\csharp-stuf.exe
+C:\Users\USER\Desktop\python-learning\csharp-stuf\bin\Debug\net10.0\csharp-stuf.deps.json
+C:\Users\USER\Desktop\python-learning\csharp-stuf\bin\Debug\net10.0\csharp-stuf.runtimeconfig.json
+C:\Users\USER\Desktop\python-learning\csharp-stuf\bin\Debug\net10.0\csharp-stuf.dll
+C:\Users\USER\Desktop\python-learning\csharp-stuf\bin\Debug\net10.0\csharp-stuf.pdb
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.AssemblyInfo.cs
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.sourcelink.json
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.dll
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\refint\csharp-stuf.dll
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.pdb
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\csharp-stuf.genruntimeconfig.cache
+C:\Users\USER\Desktop\python-learning\csharp-stuf\obj\Debug\net10.0\ref\csharp-stuf.dll

@@ -33,10 +33,9 @@ print(process_numbers([1, 2, 3, 4, 5, 6]))
 print(process_numbers([-4, -2, 0, 2, 4]))         
 print(process_numbers([1, 3, 5]))   
 
-'''  
 
 def clean_usernames(raw_names):
   return [names.strip().lower() for names in raw_names if len(names.strip()) >= 4 ]     
 
 print(clean_usernames(["  Alice  ", "bob", "CHARLIE", "  ed  ", "Dan_99 "])) 
-print(clean_usernames(["hi", "   ", "ok"]))
+print(clean_usernames(["hi", "   ", "ok"]))'''
