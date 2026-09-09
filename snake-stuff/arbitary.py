@@ -39,3 +39,7 @@ def clean_usernames(raw_names):
 
 print(clean_usernames(["  Alice  ", "bob", "CHARLIE", "  ed  ", "Dan_99 "])) 
 print(clean_usernames(["hi", "   ", "ok"]))'''
+
+import count1
+
+print(count1.ex_list)
